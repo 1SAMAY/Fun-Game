@@ -5,18 +5,7 @@ Test your reflexes, beat the timer, and aim for the highest score! 🚀
 
 ---
 
-## 🌐 Live Demo
 
-👉 **Play Now:**  
-https://1samay.github.io/Fun-Game/
-
----
-
-## 📸 Preview
-
-![Game Preview](https://via.placeholder.com/800x400.png?text=Epic+Whack-a-Mole+Game)
-
----
 
 ## 🎯 Features
 
